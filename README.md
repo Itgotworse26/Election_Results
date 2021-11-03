@@ -12,7 +12,7 @@ Working from this module’s election_results.csv file, use for loops and condit
 Finally, you’ll provide a written analysis of the election audit for the election commission, including the new results and a clearly written overview of your methods. As with all written analyses, this will help your audience understand what you did and what they might be able to do with the data you presented.
 
 
-Overview of Election Audit: The purpose of this project is to assess the voter turnout and percentage for each county, and determine which county had the highest turnout. This will allow Seth and Tom to determine whether the election commission had taken the proper steps to encourage turnout. In order to accomplish this task, a python program to read and organize the data by candidate and county will be needed. 
+**Overview of Election Audit**: The purpose of this project is to assess the voter turnout and percentage for each county, and determine which county had the highest turnout. This will allow Seth and Tom to determine whether the election commission had taken the proper steps to encourage turnout. In order to accomplish this task, a python program to read and organize the data by candidate and county will be needed. 
 
 **Election-Audit Results**: When the program was run, this was the result of the analysis:
 
