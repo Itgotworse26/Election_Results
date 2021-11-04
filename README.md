@@ -41,13 +41,15 @@ Finally, you’ll provide a written analysis of the election audit for the elect
     
 * Jefferson County had 8,855 votes casted, making up 10.5% of the turnout. Denver County had 306,055 votes casted, making up 82.8% of the turnout. Arapahoe County had 24,801 votes casted, making up 6.7% of the turnout.
     
-* Denver County had 306,055 votes casted, making up 82.8% of the turnout.
+* Denver County is the county with the largest turnout with 306,055 votes casted, making up 82.8% of the turnout.
     
 * Charles Casper Stockham received 85,213 votes, taking 23% of the ballots. Diana DeGette received 272,892 votes, taking 73.8% of the ballots. Raymon Anthony Doane received 11,606 votes, taking 3.1% of the ballots.
     
 * Diana DeGette won with 272,892 votes, taking 73.8% of the ballots.
 
 **Election-Audit Summary**: The election commission should rexamine their current outreach efforts to all counties. There is a massive gap in voter turnout in Denver County and Jefferson and Arapahoe Counties. Seth and Tom should ask the election commission to review what are their current efforts to increase voter turnout and why what may have worked in Denver County had a negligible effect in Jefferson and Arapahoe Counties. 
+
+While such information is more relevant to the candidates than the election commission, the ability to sort how much each county went for each candidate could be useful. Such information could prove a valuable resource to determine why a particular candidate scored well with a particular county. The information is a helpful resource to candidates to determine how effective their campaigns were in a certain county.
 
 Another series of datapoints that might be helpful in future uses of this program would be to examine when and where the ballots were casted and whether the ballots were casted in-person or sent by mail. Being able to examine where, when, and how voters are casting or sending their ballots could help determine when and why voters were or were not casting their ballots. 
 
